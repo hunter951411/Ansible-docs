@@ -1,6 +1,6 @@
 ##Bắt đầu
 
-- Bắt đầu](#Getting)
+- [Bắt đầu](#Getting)
 <ul>
 <li>[1. Lời nói đầu](#Foreword)</li>
 <li>[2. Thông tin kết nối từ xa](#Remote)</li>
